@@ -3,7 +3,7 @@ require ('connexion.php');
 
     // recupere coonnexion.php
         
-
+//TEST
         // Je cree ma connexion
         $appliDB = new Connexion();
 
